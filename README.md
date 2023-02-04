@@ -3,8 +3,6 @@
 My name is Douglas, I'm a Brazilian Front-end Software Engineer at Itaú Unibanco.
 I'm 25yo and I've beeing working in tech since 2018.
 
-
-
 ## ✉️ Contact   
 
 <a href="https://www.linkedin.com/in/douglas-costa-462030115/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
