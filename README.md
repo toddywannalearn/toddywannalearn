@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @toddywannalearn
-- 👀 I’m interested in becoming a developer
-- 🌱 I’m currently learning flutter and design patterns
-- 💞️ I’m looking to collaborate on projects inside the company i am currently working on
+# Hello There, 
 
-<!---
-toddywannalearn/toddywannalearn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Douglas, I'm a Brazilian Front-end Software Engineer at Itaú Unibanco.
+I'm 25yo and I've beeing working in tech since 2018.
+
+# Technologies
+
+![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
