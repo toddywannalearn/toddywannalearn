@@ -1,14 +1,14 @@
-# Hello There, 
+## Hello There, 
 
 My name is Douglas, I'm a Brazilian Front-end Software Engineer at Itaú Unibanco.
 I'm 25yo and I've beeing working in tech since 2018.
 
 
-# Contact
+## Contact
 ![image](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-# Technologies
+## Technologies
 
 ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
